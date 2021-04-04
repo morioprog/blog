@@ -1,10 +1,12 @@
 ---
 title: "About Me"
-date: 2021-04-04T11:00:00+09:00
+date: 2000-01-01T00:00:00+09:00
 thumbnail: "icon.jpg"
 categories: ["その他"]
 toc: true
 ---
+
+(最終更新: 2021-04-04)
 
 ## 自己紹介
 
