@@ -49,3 +49,12 @@ strong {
 .of-scroll::-webkit-scrollbar {
   display: none;
 }
+
+.author-thumb {
+  transition: 0.1s;
+}
+
+.author-thumb:hover {
+  transform: rotate(-45deg);
+  transition: 0.1s;
+}
