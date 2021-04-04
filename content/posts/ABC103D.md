@@ -15,9 +15,9 @@ tags: ["区間スケジューリング"]
 
 ### 制約
 
-* $2 \leq N \leq 10^5$
-* $1 \leq M \leq 10^5$
-* $1 \leq a_i < b_i \leq N$
+- $2 \leq N \leq 10^5$
+- $1 \leq M \leq 10^5$
+- $1 \leq a_i < b_i \leq N$
 
 ## 考察
 

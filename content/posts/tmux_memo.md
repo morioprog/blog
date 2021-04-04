@@ -6,69 +6,69 @@ categories: ["備忘録"]
 
 ## チートシート
 
-* 標準の`prefix` : `Control + B`
-* `prefix + ?`でヘルプ
+- 標準の`prefix` : `Control + B`
+- `prefix + ?`でヘルプ
 
 ### コマンド
 
-| action | command |
-| :-: | :- |
-| セッション開始 | `tmux` |
-| 名前を指定してセッション開始 | `tmux new-session -s <name>` |
-| セッション一覧 | `tmux ls` |
-| 接続クライアント一覧 | `tmux lsc` |
-| セッションを再開 | `tmux a` |
-| 指定したセッションを再開 | `tmux a -t <session-name>` |
-| 指定したセッションを削除 | `tmux kill-session -t <session-name>` |
-| 直近にアタッチしていたセッションを削除 | `tmux kill-session` |
-| セッションを全て削除 | `tmux kill-server` |
-| 設定ファイルを反映 | `tmux source ~/.tmux.conf` |
+|                 action                 | command                               |
+| :------------------------------------: | :------------------------------------ |
+|             セッション開始             | `tmux`                                |
+|      名前を指定してセッション開始      | `tmux new-session -s <name>`          |
+|             セッション一覧             | `tmux ls`                             |
+|          接続クライアント一覧          | `tmux lsc`                            |
+|            セッションを再開            | `tmux a`                              |
+|        指定したセッションを再開        | `tmux a -t <session-name>`            |
+|        指定したセッションを削除        | `tmux kill-session -t <session-name>` |
+| 直近にアタッチしていたセッションを削除 | `tmux kill-session`                   |
+|          セッションを全て削除          | `tmux kill-server`                    |
+|           設定ファイルを反映           | `tmux source ~/.tmux.conf`            |
 
 ### セッション
 
-| `prefix + <?>` | action |
-| :-: | :-: |
-| `s` | セッションの一覧選択 |
-| `d` | セッションから離脱 |
-| `$` | セッション名変更 |
+| `prefix + <?>` |        action        |
+| :------------: | :------------------: |
+|      `s`       | セッションの一覧選択 |
+|      `d`       |  セッションから離脱  |
+|      `$`       |   セッション名変更   |
 
 ### ウィンドウ
 
-| `prefix + <?>` | action |
-| :-: | :-: |
-| `c` | ウィンドウ作成 |
-| `w` | ウィンドウ一覧選択 |
-| `&` | ウィンドウ強制終了 |
-| `,` | ウィンドウ名変更 |
-| `n` | 次のウィンドウに移動 |
-| `p` | 前のウィンドウに移動 |
-| `f` | ウィンドウ検索 |
-| `<number>` | 指定した番号のウィンドウに移動 |
+| `prefix + <?>` |             action             |
+| :------------: | :----------------------------: |
+|      `c`       |         ウィンドウ作成         |
+|      `w`       |       ウィンドウ一覧選択       |
+|      `&`       |       ウィンドウ強制終了       |
+|      `,`       |        ウィンドウ名変更        |
+|      `n`       |      次のウィンドウに移動      |
+|      `p`       |      前のウィンドウに移動      |
+|      `f`       |         ウィンドウ検索         |
+|   `<number>`   | 指定した番号のウィンドウに移動 |
 
 ### ペイン
 
-| `prefix + <?>` | action |
-| :-: | :-: |
-| `"` (`|`) | ペイン横分割 |
-| `%` (`-`) | ペイン縦分割 |
-| `z` | ペインの最大化(解除) |
-| `<arrow>`(`hjkl`), `o` | ペインの移動 |
-| `C-<arrow>`(`C-hjkl`) | ペインのリサイズ |
-| `q` | ペイン番号を表示 |
-| `q + <number>` | 指定した番号のペインに移動 |
-| `x` | ペインを強制終了 |
-| `t` | 時計を表示 |
-| `{`, `}`, `C-o` | ペインの入れ替え |
-| `Space` | レイアウトを変更 |
+|     `prefix + <?>`     |           action           |
+| :--------------------: | :------------------------: | ------------ |
+|         `"` (`         |             `)             | ペイン横分割 |
+|       `%` (`-`)        |        ペイン縦分割        |
+|          `z`           |    ペインの最大化(解除)    |
+| `<arrow>`(`hjkl`), `o` |        ペインの移動        |
+| `C-<arrow>`(`C-hjkl`)  |      ペインのリサイズ      |
+|          `q`           |      ペイン番号を表示      |
+|     `q + <number>`     | 指定した番号のペインに移動 |
+|          `x`           |      ペインを強制終了      |
+|          `t`           |         時計を表示         |
+|    `{`, `}`, `C-o`     |      ペインの入れ替え      |
+|        `Space`         |      レイアウトを変更      |
 
 ### コピー
 
-| command | action |
-| :-: | :-: |
-| `prefix + [` | コピーモードに入る |
+|    command    |        action        |
+| :-----------: | :------------------: |
+| `prefix + [`  |  コピーモードに入る  |
 | `Space` (`v`) | 範囲選択モードに入る |
 | `Enter` (`y`) | 選択範囲をコピーする |
-| `prefix + ]` | ペースト |
+| `prefix + ]`  |       ペースト       |
 
 ---
 
@@ -104,8 +104,8 @@ cp -r ~/.pyenv/versions/3.8.2/lib/python3.8/site-packages/powerline/config_files
 ls ~/.config/powerline      #=> colors.json  colorschemes/  config.json  themes/
 ```
 
-* 色 : `colorschemes/`
-* 表示内容 : `themes/`
+- 色 : `colorschemes/`
+- 表示内容 : `themes/`
 
 ## `.tmux.conf`の設定
 
@@ -152,13 +152,13 @@ source ~/.pyenv/versions/3.8.2/lib/python3.8/site-packages/powerline/bindings/tm
 
 ## メモ
 
-* 特殊な記号（セパレータなど）が表示できないとき
-  * `tmux -u`でUTF-8を明示的に指定してセッションを開始する
+- 特殊な記号（セパレータなど）が表示できないとき
+  - `tmux -u`で UTF-8 を明示的に指定してセッションを開始する
 
 ## 参考
 
-* <https://qiita.com/michiomochi@github/items/4bf8e34a91bbf3d9af20>
-* <https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b>
-* <https://qiita.com/Suzuki09/items/9bd5b04387582669d898>
-* <https://qiita.com/waieneiaw/items/22ed18809739c9a69f25>
-* <https://takuzoo3868.hatenablog.com/entry/2019/12/14/031652>
+- <https://qiita.com/michiomochi@github/items/4bf8e34a91bbf3d9af20>
+- <https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b>
+- <https://qiita.com/Suzuki09/items/9bd5b04387582669d898>
+- <https://qiita.com/waieneiaw/items/22ed18809739c9a69f25>
+- <https://takuzoo3868.hatenablog.com/entry/2019/12/14/031652>
