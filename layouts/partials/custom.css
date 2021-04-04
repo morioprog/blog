@@ -1,0 +1,46 @@
+/* Custom Font */
+@font-face {
+  font-family: "Mplus";
+  src: url(/font/mplus-2p-regular.ttf);
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url(/font/JetBrainsMono-Regular.ttf);
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Mplus, Myriad, Helvetica, Arial, "Meiryo", "メイリオ", sans-serif;
+}
+code {
+  font-family: JetBrainsMono, monospace, Monaco;
+}
+
+/* Posts */
+.collection a.collection-item {
+  display: block;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+  color: #333333;
+}
+.collection a:not(.active):hover {
+  /* text-decoration: underline; */
+  background-color: #b6dcfb;
+  color: #111111;
+}
+
+strong {
+  background: linear-gradient(transparent 60%, #fff300 60%) !important;
+}
+
+.of-scroll {
+  overflow-x: scroll;
+}
+
+.of-scroll::-webkit-scrollbar {
+  display: none;
+}

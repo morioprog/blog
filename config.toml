@@ -1,4 +1,24 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.morio.dev/"
 theme = "robust"
 languageCode = "en-us"
 title = "backad"
+enableEmoji = true
+hasCJKLanguage = true
+paginate = 6
+enableHighlight = true
+PygmentsCodeFences = true
+googleAnalytics = "UA-162044548-1"
+
+[permalinks]
+  posts = "/:year/:month/:filename/"
+
+[params]
+customCSS = "css/custom.css"
+enableMathJax = true
+
+[params.author]
+thumbnail = "icon.jpg"
+name = "morioprog"
+description = "競技プログラミングをしています．<br />最近はWebに興味があります．"
+twitter = "https://twitter.com/morio_prog"
+github = "https://github.com/morioprog"
