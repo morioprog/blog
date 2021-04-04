@@ -1,6 +1,7 @@
 ---
 title: "iPadの環境構築"
 date: 2020-04-15T20:33:11+09:00
+thumbnail: "img/header/ish.png"
 categories: ["備忘録"]
 ---
 

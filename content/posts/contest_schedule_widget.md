@@ -1,6 +1,7 @@
 ---
 title: "コンテスト予定を表示するウィジェットの入れ方"
 date: 2021-01-17T20:30:00+09:00
+thumbnail: "img/header/widget.jpeg"
 categories: ["その他"]
 ---
 

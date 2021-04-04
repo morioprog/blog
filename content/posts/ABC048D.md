@@ -1,6 +1,7 @@
 ---
 title: "【ABC048】D - An Ordinary Game"
 date: 2018-11-02T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["文字列"]
 ---

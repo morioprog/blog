@@ -1,6 +1,7 @@
 ---
 title: "【ABC114】C - 755"
 date: 2018-12-02T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["全探索", "bit全探索", "DFS", "桁DP", "埋め込み"]
 ---

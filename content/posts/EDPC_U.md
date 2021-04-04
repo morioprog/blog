@@ -1,6 +1,7 @@
 ---
 title: "【EDPC】U - Grouping"
 date: 2020-04-05T17:29:32+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["DP", "bitDP", "部分集合列挙"]
 ---

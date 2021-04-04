@@ -1,6 +1,7 @@
 ---
 title: "【CODE FESTIVAL 2015】D - 壊れた電車【予選A】"
 date: 2018-08-23T00:00:00+09:00
+thumbnail: "img/header/codefestival.png"
 categories: ["精進"]
 tags: ["二分探索"]
 ---

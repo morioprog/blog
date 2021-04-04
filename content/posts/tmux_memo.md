@@ -1,6 +1,7 @@
 ---
 title: "tmuxの備忘録"
 date: 2020-06-18T02:12:00+09:00
+thumbnail: "img/header/tmux.svg"
 categories: ["備忘録"]
 ---
 

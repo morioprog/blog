@@ -1,6 +1,7 @@
 ---
 title: "【ARC064】E - Cosmic Rays"
 date: 2018-11-02T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["グラフ"]
 ---

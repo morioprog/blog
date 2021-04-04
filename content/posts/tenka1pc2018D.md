@@ -1,6 +1,7 @@
 ---
 title: "【Tenka1 Programmer Contest】D - Crossing"
 date: 2018-11-03T00:00:00+09:00
+thumbnail: "img/header/tenka1.jpeg"
 categories: ["精進"]
 tags: ["構築"]
 ---

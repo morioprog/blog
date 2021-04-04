@@ -1,6 +1,7 @@
 ---
 title: "【ARC071】F - Infinite Sequence"
 date: 2020-04-09T13:12:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["DP", "遅延セグメント木", "累積和", "行列"]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "【Educational Codeforces Round 51】D - Bicolorings"
 date: 2018-09-21T00:00:00+09:00
+thumbnail: "img/header/codeforces.svg"
 categories: ["精進"]
 tags: ["DP"]
 ---

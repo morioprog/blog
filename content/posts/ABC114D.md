@@ -1,6 +1,7 @@
 ---
 title: "【ABC114】D - 756"
 date: 2018-12-02T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["数学", "約数"]
 ---

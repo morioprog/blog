@@ -1,6 +1,7 @@
 ---
 title: "【全国統一プログラミング王決定戦予選】C - Different Strokes"
 date: 2020-04-10T08:38:37+09:00
+thumbnail: "img/header/nikkei.svg"
 categories: ["精進"]
 tags: ["比較関数"]
 ---

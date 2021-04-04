@@ -1,6 +1,7 @@
 ---
 title: "【EDPC】O - Matching"
 date: 2020-04-05T16:06:57+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["DP", "bitDP"]
 ---

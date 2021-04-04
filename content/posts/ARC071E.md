@@ -1,6 +1,7 @@
 ---
 title: "【ARC071】E - TrBBnsformBBtion"
 date: 2018-12-06T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["文字列", "imos法"]
 ---

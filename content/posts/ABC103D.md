@@ -1,6 +1,7 @@
 ---
 title: "【ABC103】D - Islands War"
 date: 2018-08-30T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["区間スケジューリング"]
 ---

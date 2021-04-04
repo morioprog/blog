@@ -1,6 +1,7 @@
 ---
 title: "【ABC043】D - アンバランス / Unbalanced"
 date: 2018-08-22T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["文字列"]
 ---

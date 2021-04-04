@@ -1,6 +1,7 @@
 ---
 title: "M1 Macの初期設定"
 date: 2021-02-18T00:00:00+09:00
+thumbnail: "img/header/m1.jpeg"
 categories: ["備忘録"]
 ---
 

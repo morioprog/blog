@@ -1,6 +1,7 @@
 ---
 title: "【Tenka1 Programmer Contest】C - Align"
 date: 2018-11-02T00:00:00+09:00
+thumbnail: "img/header/tenka1.jpeg"
 categories: ["精進"]
 tags: ["貪欲"]
 ---

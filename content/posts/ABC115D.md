@@ -1,6 +1,7 @@
 ---
 title: "【ABC115】D - Christmas"
 date: 2018-12-08T00:00:00+09:00
+thumbnail: "img/header/atcoder.svg"
 categories: ["精進"]
 tags: ["再帰"]
 ---

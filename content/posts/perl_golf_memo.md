@@ -1,6 +1,7 @@
 ---
 title: "Perlゴルフの備忘録"
 date: 2020-03-29T16:42:57+09:00
+thumbnail: "img/header/perl.svg"
 categories: ["備忘録", "コードゴルフ"]
 tags: ["Perl"]
 ---

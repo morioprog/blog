@@ -1,6 +1,7 @@
 ---
 title: "【codeFlyer】C - 徒歩圏内"
 date: 2019-04-18T00:00:00+09:00
+thumbnail: "img/header/bitflyer.png"
 categories: ["精進"]
 tags: ["二分探索", "累積和"]
 ---
