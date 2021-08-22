@@ -6,7 +6,7 @@ categories: ["その他"]
 toc: true
 ---
 
-(最終更新: 2021-04-04)
+(最終更新: 2021-08-22)
 
 ## 自己紹介
 
@@ -15,6 +15,8 @@ toc: true
 普段は[競プロ](#競技プログラミング)か[ぷよぷよ](#ぷよぷよ)をしています.
 
 たまに[UserScript とかウィジェットとか](#作ったものたち)を作ってます.
+
+2021 年はこんなことがありました → [■](../2021/08/tweet2021/)
 
 ## 趣味
 
@@ -67,12 +69,6 @@ AtCoder の提出一覧のユーザ名を色付けする UserScript です.
 
 {{<tweet 1237639081078579200>}}
 
-### [AtCoder Language Filter](https://github.com/morioprog/AtCoderLanguageFilter)
-
-AtCoder の提出言語のフィルタリングと並び替えを行う UserScript です.
-
-{{<tweet 1240207368752746496>}}
-
 ### [Contest Schedule Widget](https://gist.github.com/morioprog/c2cde4738678f10e561832ea14fd181b)
 
 コンテストの予定を表示する iOS ウィジェットです. [Scriptable](https://scriptable.app/)というアプリ上で動作します.
@@ -80,6 +76,14 @@ AtCoder の提出言語のフィルタリングと並び替えを行う UserScri
 導入方法は[この記事](../2021/01/contest_schedule_widget/)にまとめました．
 
 {{<tweet 1327938750433828864>}}
+
+### [COVID-19 Rating Graph](https://github.com/morioprog/covid19-rating-graph)
+
+東京都の新規陽性者数を AtCoder のレーティンググラフ風に表示するサイトです．
+
+毎日のグラフをツイートする bot もあります → [@covid19_rating](https://twitter.com/covid19_rating)
+
+{{<tweet 1421421386090696711>}}
 
 ### [DeepL Indent Shaper](https://deepl-indent-shaper.herokuapp.com/)
 
@@ -92,6 +96,12 @@ PDF からコピーしたときの余計な改行を直して, 直接 DeepL で�
 競プロのライブラリを手軽に貼れる VSCode 用の拡張機能です.
 
 {{<tweet 1254575514339041280>}}
+
+### [AtCoder Language Filter](https://github.com/morioprog/AtCoderLanguageFilter)
+
+AtCoder の提出言語のフィルタリングと並び替えを行う UserScript です.
+
+{{<tweet 1240207368752746496>}}
 
 ### [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab)
 
