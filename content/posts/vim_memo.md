@@ -1,5 +1,5 @@
 ---
-title: "vimの備忘録"
+title: "Vimの備忘録"
 date: 2020-06-18T02:13:00+09:00
 thumbnail: "img/header/vim.svg"
 categories: ["備忘録"]
