@@ -58,3 +58,7 @@ strong {
   transform: rotate(-45deg);
   transition: 0.1s;
 }
+
+ul {
+  margin: 6px 0 !important;
+}
