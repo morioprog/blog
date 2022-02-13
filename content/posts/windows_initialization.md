@@ -1,7 +1,7 @@
 ---
 title: "Windowsの初期設定"
 date: 2022-02-13T00:00:00+09:00
-thumbnail: "img/header/m1.jpeg"
+thumbnail: "img/header/win11.png"
 categories: ["備忘録"]
 ---
 
