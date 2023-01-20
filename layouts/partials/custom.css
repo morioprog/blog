@@ -59,6 +59,6 @@ strong {
   transition: 0.1s;
 }
 
-ul {
+.article-body ul {
   margin: 6px 0 !important;
 }
