@@ -59,6 +59,9 @@ strong {
   transition: 0.1s;
 }
 
-ul:not(.author-facts) {
+ul {
   margin: 6px 0 !important;
+}
+ul.author-facts {
+  margin: 6px !important;
 }
