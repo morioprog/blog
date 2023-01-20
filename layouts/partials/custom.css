@@ -59,6 +59,6 @@ strong {
   transition: 0.1s;
 }
 
-article ul {
+:not(aside) ul {
   margin: 6px 0 !important;
 }
