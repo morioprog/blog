@@ -8,6 +8,7 @@ paginate = 6
 enableHighlight = true
 PygmentsCodeFences = true
 googleAnalytics = "UA-162044548-1"
+ignoreErrors = ["error-remote-getjson"]
 
 [permalinks]
   posts = "/:year/:month/:filename/"
