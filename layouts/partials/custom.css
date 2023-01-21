@@ -63,3 +63,10 @@ article.sn > .article-body ul,
 article.sn > .article-body ol {
   margin: 0.75rem 0;
 }
+article.sn > .article-body p {
+  margin: 0.25rem 0;
+}
+
+.author > .author-facts li {
+  padding: 3px !important;
+}
