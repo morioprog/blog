@@ -59,9 +59,7 @@ strong {
   transition: 0.1s;
 }
 
-ul {
-  margin: 6px 0 !important;
-}
-ul.author-facts {
-  margin: 6px !important;
+article.sn > .article-body ul,
+article.sn > .article-body ol {
+  margin: 0.75rem 0;
 }
