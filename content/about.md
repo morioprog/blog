@@ -6,17 +6,17 @@ categories: ["その他"]
 toc: true
 ---
 
-(最終更新: 2021-08-22)
+(最終更新: 2023-01-21)
 
 ## 自己紹介
 
-**慶應義塾大学大学院の 1 年生**です.
+慶應義塾大学大学院の 2 年生 です。
 
-普段は[競プロ](#競技プログラミング)か[ぷよぷよ](#ぷよぷよ)をしています.
+普段は [競プロ](#競技プログラミング) か [ぷよぷよ](#ぷよぷよ) をしています。
 
-たまに[UserScript とかウィジェットとか](#作ったものたち)を作ってます.
+最近は**ぷよぷよAI**を作っています → [■](../2023/01/puyoai_ghoti)
 
-2021 年はこんなことがありました → [■](../2021/08/tweet2021/)
+自分が欲しいと思ったものを色々作ってます。
 
 ## 趣味
 
@@ -24,7 +24,7 @@ toc: true
 
 #### レート
 
-大体どのコンテストサイトも`morio__`っていうユーザ名で出てます.
+大体どのコンテストサイトも`morio__`っていうユーザ名で出てます。
 
 - [AtCoder](https://atcoder.jp/users/morio__) : {{< colorize "#C0C000" "2028(黄)" >}}, max{{< colorize "#C0C000" "2068(黄)" >}}
 - [CodeForces](https://codeforces.com/profile/morio__) : {{< colorize "#FF8C00" "2158(薄橙)" >}}, max{{< colorize "#FF8C00" "2229(薄橙)" >}}
@@ -32,7 +32,7 @@ toc: true
 
 #### オンサイト
 
-参加させていただいたオンサイト一覧です.
+参加させていただいたオンサイト一覧です。
 
 - 2018/11/15 : [CODE THANKS FESTIVAL 2018](https://atcoder.jp/contests/code-thanks-festival-2018)
 - 2019/09/29 : [第一回日本最強プログラマー学生選手権決勝](https://atcoder.jp/contests/jsc2019-final)
@@ -43,70 +43,79 @@ toc: true
 
 最近またぷよぷよ熱が再燃してきました:fire:
 
-主に Switch 版のぷよスポで遊んでます. レートは**2800~3000**です.
+主に Switch 版のぷよスポで遊んでます。
+レートは**2800~3000**です。
 
-ぷよぷよ垢もあるのでよければ:raised_hands: → [@morio_puyo](https://twitter.com/morio_puyo)
+ぷよぷよ垢もあるのでよければ:raised_hands:
+→ [@morio_puyo](https://twitter.com/morio_puyo)
 
-ぜひ対戦しましょう！ (フレンドコード:`SW-1301-1804-7916`)
+ぜひ対戦しましょう！
+（フレンドコード: `SW-1301-1804-7916`）
 
-{{<tweet 1313144913735766016>}}
+{{<tweet user="morioprog" id="1313144913735766016">}}
 
 ### 太鼓の達人
 
-最近のバージョンはだいたい**九段**です. 十段は転生しないとむりです.
+最近のバージョンはだいたい**九段**です。
+十段は転生しないとむりです。
 
 繋げればいいやの精神で遊んでるので基本的に精度は壊滅してます:open_mouth:
 
-ばいでたつけて動体視力ゲーにするのが好きです.
+ばいでたつけて動体視力ゲーにするのが好きです。
 
 ## 作ったものたち
 
-もし少しでも気に入っていただけたら, GitHub の Star を押してもらえるとモチベにつながります:bow:
+もし少しでも気に入っていただけたら、
+GitHub の Star を押してもらえるとモチベにつながります:bow:
 
 ### [AtCoderSubmissionUserColorizer](https://github.com/morioprog/AtCoderSubmissionUserColorizer)
 
-AtCoder の提出一覧のユーザ名を色付けする UserScript です.
+AtCoder の提出一覧のユーザ名を色付けする UserScript です。
 
-{{<tweet 1237639081078579200>}}
+{{<tweet user="morioprog" id="1237639081078579200">}}
 
 ### [Contest Schedule Widget](https://gist.github.com/morioprog/c2cde4738678f10e561832ea14fd181b)
 
-コンテストの予定を表示する iOS ウィジェットです. [Scriptable](https://scriptable.app/)というアプリ上で動作します.
+コンテストの予定を表示する iOS ウィジェットです。
+[Scriptable](https://scriptable.app/)というアプリ上で動作します。
 
-導入方法は[この記事](../2021/01/contest_schedule_widget/)にまとめました．
+導入方法は[この記事](../2021/01/contest_schedule_widget/)にまとめました。
 
-{{<tweet 1327938750433828864>}}
+{{<tweet user="morioprog" id="1327938750433828864">}}
 
 ### [COVID-19 Rating Graph](https://github.com/morioprog/covid19-rating-graph)
 
-東京都の新規陽性者数を AtCoder のレーティンググラフ風に表示するサイトです．
+東京都の新規陽性者数を AtCoder のレーティンググラフ風に表示するサイトです。
 
-毎日のグラフをツイートする bot もあります → [@covid19_rating](https://twitter.com/covid19_rating)
+毎日のグラフをツイートする bot もあります
+→ [@covid19_rating](https://twitter.com/covid19_rating)
 
-{{<tweet 1421421386090696711>}}
+{{<tweet user="morioprog" id="1421421386090696711">}}
 
 ### [DeepL Indent Shaper](https://deepl-indent-shaper.herokuapp.com/)
 
-PDF からコピーしたときの余計な改行を直して, 直接 DeepL で翻訳できるサイトです.
+PDF からコピーしたときの余計な改行を直して、
+直接 DeepL で翻訳できるサイトです。
 
-{{<tweet 1294489989590290432>}}
+{{<tweet user="morioprog" id="1294489989590290432">}}
 
 ### [snippet-from-file](https://marketplace.visualstudio.com/items?itemName=morioprog.snippet-from-file)
 
-競プロのライブラリを手軽に貼れる VSCode 用の拡張機能です.
+競プロのライブラリを手軽に貼れる VSCode 用の拡張機能です。
 
-{{<tweet 1254575514339041280>}}
+{{<tweet user="morioprog" id="1254575514339041280">}}
 
 ### [AtCoder Language Filter](https://github.com/morioprog/AtCoderLanguageFilter)
 
-AtCoder の提出言語のフィルタリングと並び替えを行う UserScript です.
+AtCoder の提出言語のフィルタリングと並び替えを行う UserScript です。
 
-{{<tweet 1240207368752746496>}}
+{{<tweet user="morioprog" id="1240207368752746496">}}
 
 ### [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab)
 
-AtCoder において, 開いている問題のコード長順の提出に飛ぶタブを追加する UserScript です.
+AtCoder において、
+開いている問題のコード長順の提出に飛ぶタブを追加する UserScript です。
 
 ### [Snuke? Smeke?](https://greasyfork.org/ja/scripts/377622-snuke-smeke)
 
-競プロの問題文で紛らわしい単語をハイライトできる UserScript です.
+競プロの問題文で紛らわしい単語をハイライトできる UserScript です。
