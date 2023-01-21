@@ -63,8 +63,12 @@ article.sn > .article-body ul,
 article.sn > .article-body ol {
   margin: 0.75rem 0;
 }
+article.sn > .article-body h4 {
+  margin-top: 2rem;
+}
 article.sn > .article-body p {
   margin: 0.25rem 0;
+  line-height: 1.75rem;
 }
 
 .author > .author-facts li {
