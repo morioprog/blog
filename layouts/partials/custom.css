@@ -63,8 +63,8 @@ article.sn > .article-body ul,
 article.sn > .article-body ol {
   margin: 0.5rem 0 0.25rem;
 }
-article.sn > .article-body h4 {
-  margin-top: 2rem;
+article.sn > .article-body h2, h3, h4 {
+  margin: 2rem 0 1rem !important;
 }
 article.sn > .article-body p {
   margin: 0.25rem 0;
