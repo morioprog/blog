@@ -7,7 +7,7 @@ hasCJKLanguage = true
 paginate = 6
 enableHighlight = true
 PygmentsCodeFences = true
-googleAnalytics = "UA-162044548-1"
+googleAnalytics = "G-0B3L2MK54P"
 ignoreErrors = ["error-remote-getjson"]
 
 [permalinks]
